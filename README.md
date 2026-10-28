@@ -1,5 +1,7 @@
 # Heating Plate Design
 
+Video Explanation: https://youtu.be/IAYSCYk72Vg
+
 In semiconductor fabrication, high-temperature heating plates (up to 400°C) are critical for processes like **polyimide and polymer curing**, **photoresist hard baking**, and **thin-film annealing**.
 
 These precision hotplates provide uniform thermal treatment to:
